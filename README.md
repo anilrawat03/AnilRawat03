@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anil Rawat.
-- 👀 I’m interested in .net core.
+- 👀 I’m interested in MS technologies (.net core||Blazor||EntityFrameWorkCore||Cosmos DB).
 - 🌱 I’m currently learning blazor/angular/react.
 - 💞️ I’m looking to collaborate on blazor.
 - 📫 You can reach to me @ anilrawatyashika@gmail.com
